@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">GmailApiTesting</string>
+    <string name="emailSender">test</string>
+</resources>
